@@ -1,0 +1,5 @@
+node_modules/
+dist/
+shots/
+.manus-starter-init.json
+.manus-webdev/

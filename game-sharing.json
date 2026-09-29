@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 2,
+  "title": "Critter Kart 萌兽卡丁车",
+  "description": "A cute 3D item kart racer in candy-sweet Sugarloop Valley: six critter racers, drift and slipstream boosts, candy coins and seven power-ups including Sugar Rush and Gumball Bomb. Play free in your browser in English, 简体中文 or 日本語.",
+  "defaultCaptions": {
+    "x": "Drift, boost and bubble-bomb your way through Sugarloop Valley in Critter Kart 🍭🏁 Six critter racers, seven power-ups, free in your browser.",
+    "facebook": "Critter Kart is a cute 3D kart racer set in candy-sweet Sugarloop Valley. Pick one of six critters, chain drift boosts, grab candy coins and fire off seven power-ups — right in your browser.",
+    "reddit": "Critter Kart: a free browser 3D kart racer with drift boosts, slipstreams, candy coins and 7 power-ups (Sugar Rush, Gumball Bomb, Triple Pepper...). Feedback welcome!",
+    "discord": "Race me in Critter Kart! Six critters, drift boosts and seven candy power-ups in Sugarloop Valley 🏎️🍬"
+  },
+  "assets": {
+    "og": "assets/share/og.png",
+    "favicon": "assets/share/favicon.png"
+  }
+}
